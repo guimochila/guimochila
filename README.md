@@ -7,7 +7,7 @@ I'm a full-stack JavaScript developer 🇪🇸/🇧🇷.
 - 🌱 I'm currently learning and improving my skills in React, Typescript and Node.js
 - 📫 How to reach me: gui.mochila@gmail.com, [Twitter](https://twitter.com/guiscaldelai), [LinkedIn](https://www.linkedin.com/in/guilhermescaldelai/)
 - 🌎 Website: [https://guimochila.com](https://guimochila.com)
-- ⚡ Fun fact: I have worked as sysadmin and security engineer before. I did malware analysis with was so much fun. 😃
+- ⚡ Fun fact: I have worked as sysadmin and security engineer before. I did malware analysis which was so much fun. 😃
 
 Projects online:
   - 👑 Crwn Shop - [https://crwn-live.guimochila.com/](https://crwn-live.guimochila.com/)
