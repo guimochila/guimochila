@@ -10,6 +10,6 @@ I'm a full-stack JavaScript developer 🇪🇸/🇧🇷.
 - ⚡ Fun fact: I have worked as sysadmin and security engineer before. I did malware analysis with was so much fun. 😃
 
 Projects online:
-  - [Crwn Shop](https://crwn-live.guimochila.com/)
+  - 👑 Crwn Shop - [https://crwn-live.guimochila.com/](https://crwn-live.guimochila.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimochila&layout=compact&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
