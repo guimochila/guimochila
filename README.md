@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm a full-stack JavaScript developer 🇪🇸/🇧🇷.
+I'm a JavaScript developer 🇪🇸/🇧🇷.
 
 - 👨‍💻 I'm currently looking for new opportunities, I have experience as a Frontend Dev
 - 🧰 My toolbelt: React, Typescript, Next.js, Node.js, GraphQL, Docker
