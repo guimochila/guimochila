@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-I'm a JavaScript developer 🇪🇸/🇧🇷.
+I'm a Software Engineer 🇪🇸/🇧🇷.
 
-- 👨‍💻 I'm currently looking for new opportunities, I have experience as a Frontend Dev
+- 👨‍💻 I'm working at Breachlock as Sofware Engineer (React & Node)
 - 🧰 My toolbelt: React, Typescript, Next.js, Node.js, GraphQL, Docker
 - 🌱 I'm currently learning and improving my skills in React, Typescript and Node.js
 - 📫 How to reach me: gui.mochila@gmail.com, [Twitter](https://twitter.com/guiscaldelai), [LinkedIn](https://www.linkedin.com/in/guilhermescaldelai/)
