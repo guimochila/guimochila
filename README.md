@@ -2,9 +2,9 @@
 
 I'm a Software Engineer 🇪🇸/🇧🇷.
 
-- 👨‍💻 I'm working at Breachlock as Sofware Engineer (React & Node)
+- 👨‍💻 I'm working at TomTom as Sofware Engineer
 - 🧰 My toolbelt: React, Typescript, Next.js, Node.js, GraphQL, Docker
-- 🌱 I'm currently learning and improving my skills in React, Typescript and Node.js
+- 🌱 I'm currently learning and improving my skills in React, Typescript, Node.js and Go
 - 📫 How to reach me: gui.mochila@gmail.com, [Twitter](https://twitter.com/guiscaldelai), [LinkedIn](https://www.linkedin.com/in/guilhermescaldelai/)
 - 🌎 Website: [https://guimochila.com](https://guimochila.com)
 - ⚡ Fun fact: I have worked as sysadmin and security engineer before. I did malware analysis which was so much fun. 😃
